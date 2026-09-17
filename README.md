@@ -54,3 +54,8 @@ Join our community of developers creating universal apps.
 
 - [Expo on GitHub](https://github.com/expo/expo): View our open source platform and contribute.
 - [Discord community](https://chat.expo.dev): Chat with Expo users and ask questions.
+
+photos:
+https://www.snowfinders.co.uk/news/the-complete-guide-to-freestyle-skiing-everything-you-need-to-know/
+
+https://www.ukposters.co.uk/skis-in-snow-in-winter-season-mountains-and-ski-items-or-equipments-on-the-top-f301195002
